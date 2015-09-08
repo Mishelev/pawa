@@ -1,0 +1,12 @@
+function saludar (name)
+{
+	console.log("hola "+ name);
+}
+saludar ("mishel");
+
+
+var despide = function (name)
+{
+ 	console.log("Adios" + name);
+}
+despide ("adrian")
